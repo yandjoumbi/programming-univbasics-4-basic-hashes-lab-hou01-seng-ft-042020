@@ -7,10 +7,10 @@ def my_hash
 end
 
 def pioneer
-  { name: "Grace Hoper"}
+  { name: "Grace Hopper"}
 end
 
 
 def id_hash_generator(number)
-  { id: 3654}
+  { id: 5}
 end
